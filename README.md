@@ -3,7 +3,7 @@
 <h2>👨‍💻Geospatial Analysis Projects:</h2>
 
 - <b>Flood Modelling ,Nyando Kisumu County</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nyando Flood modelling](https://github.com/GRACEMBUTHI/Flood-Modelling/tree/main)
 - <b>Land use Landcover Change detection,Maseno Kisumu County</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Database Creation and Management for Maseno  University Campus Area</b>
