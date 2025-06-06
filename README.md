@@ -7,7 +7,7 @@
 - <b>Land use Landcover Change detection,Maseno Kisumu County</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Database Creation and Management for Maseno  University Campus Area</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Database creation for Maseno Campus .](https://github.com/GRACEMBUTHI/Geodatabase-Creation-and-Management-for-Maseno-Campus-Kisumu)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
