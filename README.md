@@ -4,12 +4,8 @@
 
 - <b>Flood Modelling ,Nyando Kisumu County</b>
   - [Nyando Flood modelling](https://github.com/GRACEMBUTHI/Flood-Modelling/tree/main)
-- <b>Land use Landcover Change detection,Maseno Kisumu County</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Database Creation and Management for Maseno  University Campus Area</b>
   - [Database creation for Maseno Campus .](https://github.com/GRACEMBUTHI/Geodatabase-Creation-and-Management-for-Maseno-Campus-Kisumu./blob/main/README.md)
-- <b>Suitability Analysis for Urban Development ,Nakuru County</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Optimizing Agricultural Land use in Maseno,Kisumu County </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
