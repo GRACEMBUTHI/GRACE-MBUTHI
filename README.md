@@ -31,10 +31,14 @@
   <img align="left" alt="Grace Mbuthi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br><br>
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[twitter]: https://x.com/gracembuthi368?t=nZTJij5dGh5xwG_KqYfaww&s=09
+
+[youtube]: https://www.youtube.com/@TheGISGuide
+
+[instagram]: https://www.instagram.com/gwm_grace?igsh=bWtma3gydHJ5d3Q4
+
+[linkedin]: https://www.linkedin.com/in/grace-mbuthi-5a9613360
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
