@@ -1,5 +1,5 @@
-<h1>Hi, I'm Grace Mbuthi! <br/> <a href="https://www.linkedin.com/in/joshmadakor/"> A Geospatial Analyst</a>
-
+<h1>Hi, I'm Grace Mbuthi! <br/> <a href="https://www.linkedin.com/in/grace-mbuthi-5a9613360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+"> A Geospatial Analyst</a>
 <h2>👨‍💻Geospatial Analysis Projects:</h2>
 
 - <b>Flood Modelling ,Nyando Kisumu County</b>
