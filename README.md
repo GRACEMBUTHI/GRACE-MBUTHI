@@ -1,4 +1,4 @@
-<h1>Hi, I'm Grace Mbuthi! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Geospatial Analyst</a>
+<h1>Hi, I'm Grace Mbuthi! <br/> <a href="https://www.linkedin.com/in/joshmadakor/"> A Geospatial Analyst</a>
 
 <h2>👨‍💻Geospatial Analysis Projects:</h2>
 
