@@ -7,7 +7,7 @@
 - <b>Database Creation and Management for Maseno  University Campus Area</b>
   - [Database creation for Maseno Campus .](https://github.com/GRACEMBUTHI/Geodatabase-Creation-and-Management-for-Maseno-Campus-Kisumu./blob/main/README.md)
 - <b>Optimizing Agricultural Land use in Maseno,Kisumu County </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Optimizing Agricultural Land use in Maseno,Kisumu County  ](https://github.com/GRACEMBUTHI/Optimizing-Agriculture-Land-use-in-Maseno-Kisumu-County.)
 
 <h2>📺 YouTube Videos</h2>
 - [Introduction to Geospatial Information Science ](https://youtube.com/@thegisguide?si=b0bft7FH_skHkGXj)
